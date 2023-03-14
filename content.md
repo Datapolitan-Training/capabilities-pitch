@@ -28,9 +28,9 @@ background-size: 700px -->
 
 ## Presenter: Richard Dunks
 
-### Follow along at: 
+### Follow along at: https://bit.ly/datapolitan-capabilities
 
-#### See the code at: 
+#### See the code at: https://bit.ly/datapolitan-capabilities-code
 
 <p class="license-text"><strong><strong>Datapolitan Capabilities</strong></strong> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.datapolitan.com" property="cc:attributionName" rel="cc:attributionURL">Richard Dunks</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
 
@@ -70,30 +70,60 @@ class:center,middle
 
 # Spreadsheets
 ![img-right-35](images/mark_stat.jpg)
+--
+
 + Introduction to Data Analytics
+--
+
 + Introduction to Open Data
+--
+
 + Data Analysis with Excel
+--
+
 + Data Analysis with Google Sheets
+--
+
 + Introduction to Statistical Analysis with Excel
 
 ---
 
 # GIS/Visualization
 ![img-right-35](images/long_shot.jpg)
+--
+
 + Data Visualization with Excel
+--
+
 + Introduction to Open Source Mapping
+--
+
 + Introduction to GIS Fundamentals
+--
+
 + Intermediate GIS with QGIS and PostGIS
+--
+
 + Advanced Data Analysis with GIS
 
 ---
 
 # Progamming/Management
-![img-right-35](images/dam.jpg)
+![img-right-45](images/dam.jpg)
+--
+
 + Data Analysis with R
+--
+
 + Data Analysis with Python
+--
+
 + Advanced Data Analysis with SQL
+--
+
 + Data Analytics for Managers
+--
+
 + Leveraging Analytics
 
 ---
@@ -107,6 +137,7 @@ class:center,middle
 ---
 
 # Final Thought
+
 Our purpose is to help center data more in our public conversations so we can create a more fair, equitable, and just society in which everyone benefits.
 
 ---
