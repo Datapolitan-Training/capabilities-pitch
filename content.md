@@ -2,7 +2,7 @@ layout:true
 
 <div class="header">
   
-  <p class="header-text">Class Title</p>
+  <p class="header-text">Datapolitan Capabilities</p>
 </div>
 <div class="footer">
   <p class="footer-text">
@@ -13,81 +13,58 @@ layout:true
 </div>
 
 --
-
 class: center,middle
+
+<!-- background-image: url(images/city_crop.png)
+background-position: top
+background-size: 700px -->
+
 
 ![img-center-50](images/datapolitan-logo-01.svg)
 
-# Class Title
+# Datapolitan Capabilities
 
 - - -
 
-## Facilitator: Richard Dunks
+## Presenter: Richard Dunks
 
 ### Follow along at: 
 
 #### See the code at: 
 
-<p class="license-text"><strong><strong>Class Title</strong></strong> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.datapolitan.com" property="cc:attributionName" rel="cc:attributionURL">Richard Dunks</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
+<p class="license-text"><strong><strong>Datapolitan Capabilities</strong></strong> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.datapolitan.com" property="cc:attributionName" rel="cc:attributionURL">Richard Dunks</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img style="border-width:0;width:8%" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 
 ---
 
-class:center,middle
-# Welcome
+# Background
+--
+
++ Started in 2014 teaching Data Analytics for Managers for NYC leaders
+--
+
++ Also provided analytics consulting to NYC agencies and social service nonprofit organizations
+--
+
++ Provided additional training classes to NYC employees at all levels (junior staff to senior management)
+--
+
++ As of 2023, have taught over 200 classes to well over 2,500 learners
+--
+
++ As of 2023, have provided consulting work with over 15 clients around the country
 
 ---
 
-# [Zoom Drill](https://vimeo.com/407215417)
-???
-+ Facilitators will cover the following skills: muting themselves, stopping their video, typing in chat box, raising their hand, sharing their screen
-
---
-
-+ Mute and Unmute your microphone
---
-
-+ Start and Stop your video
---
-
-+ Post a message in the Chat window with your name and computer operating system (Windows or MacOS)
---
-
-+ Click the Participants window and Raise your hand 
+# Values
+<a href="https://medium.com/datapolitan-training-playbook/core-values-alpha-version-127bf8017032" target="_blank">![img-center-70](images/values.jpg)</a>
+.caption[Click the image for a blogpost on our values]
 
 ---
 
-# A Few Ground Rules
-???
-+ Facilitators establish the intention we have for the culture of the classroom
+# Topics
 
---
-
-+ Step up, step back
---
-
-+ One mic
---
-
-+ Be curious and ask questions in the chat box
---
-
-+ Assume noble regard and positive intent
---
-
-+ Respect multiple perspectives 
---
-
-+ Be present (phone, email, social media, etc.)
-
----
-
-# Ground Rules
-
----
-
-# Introductions
 
 ---
 
