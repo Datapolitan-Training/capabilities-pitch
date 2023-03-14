@@ -62,25 +62,60 @@ background-size: 700px -->
 .caption[Click the image for a blogpost on our values]
 
 ---
+class:center,middle
 
-# Topics
+# Classes and Topics
 
+---
+
+# Spreadsheets
+![img-right-35](images/mark_stat.jpg)
++ Introduction to Data Analytics
++ Introduction to Open Data
++ Data Analysis with Excel
++ Data Analysis with Google Sheets
++ Introduction to Statistical Analysis with Excel
+
+---
+
+# GIS/Visualization
+![img-right-35](images/long_shot.jpg)
++ Data Visualization with Excel
++ Introduction to Open Source Mapping
++ Introduction to GIS Fundamentals
++ Intermediate GIS with QGIS and PostGIS
++ Advanced Data Analysis with GIS
+
+---
+
+# Progamming/Management
+![img-right-35](images/dam.jpg)
++ Data Analysis with R
++ Data Analysis with Python
++ Advanced Data Analysis with SQL
++ Data Analytics for Managers
++ Leveraging Analytics
 
 ---
 
 # Resources
++ Our <a href="https://medium.com/datapolitan-training-playbook" target="_blank">Training Playbook</a>
++ Our <a href="https://medium.com/leading-with-data" target="_blank">Leading with Data Medium publication</a>
++ Our <a href="https://github.com/Datapolitan-Training" target="_blank">Github repository of courses</a>
+
 
 ---
 
 # Final Thought
+Our purpose is to help center data more in our public conversations so we can create a more fair, equitable, and just society in which everyone benefits.
 
 ---
 
 # Contact Information
-+ [Email me](mailto:richard[at]datapolitan[dot]com)
-+ Check out [my website](https://wwww.datapolitan.com)
++ [Email us](mailto:training[at]datapolitan[dot]com)
++ Check out [our website](https://wwww.datapolitan.com) (currently under construction)
 + Connect on [Twitter](https://twitter.com/Datapolitan)
-+ Connect on [LinkedIn](https://www.linkedin.com/in/richarddunks/)
++ Connect on [LinkedIn](https://www.linkedin.com/company/datapolitan/)
 + Follow us on [Instagram](https://www.instagram.com/datapolitan/)
 
 ---
